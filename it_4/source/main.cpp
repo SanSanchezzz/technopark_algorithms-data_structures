@@ -186,7 +186,7 @@ void DynamicArray<T>::grow() {
     size_t newBufferSize = std::max(bufferSize * this->growCoeff, this->initialSize);
     T* newBuffer = new T[newBufferSize];
 
-    memcpy(newBuffer, buffer, bufferSize * sizeof(T));
+    std::copy(buffer, buffer + bufferSize, newBuffer);
 
     delete[] buffer;
 
