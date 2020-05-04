@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/it_2/build",
+  "command": "/usr/bin/c++   -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/it_2/build -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/it_2  -g -O0 -Wall -Werror   -std=gnu++11 -o CMakeFiles/it_2.dir/source/main.cpp.o -c /home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/it_2/source/main.cpp",
+  "file": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/it_2/source/main.cpp"
+}
+]
