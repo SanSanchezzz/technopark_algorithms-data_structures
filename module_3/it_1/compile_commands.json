@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build",
+  "command": "/usr/bin/c++   -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1 -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/include  -g -O0 -Wall   -std=gnu++11 -o CMakeFiles/it_1.dir/source/main.cpp.o -c /home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/main.cpp",
+  "file": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/main.cpp"
+},
+{
+  "directory": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build",
+  "command": "/usr/bin/c++   -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1 -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/include  -g -O0 -Wall   -std=gnu++11 -o CMakeFiles/it_1.dir/source/arc_graph.cpp.o -c /home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/arc_graph.cpp",
+  "file": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/arc_graph.cpp"
+},
+{
+  "directory": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build",
+  "command": "/usr/bin/c++   -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1 -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/include  -g -O0 -Wall   -std=gnu++11 -o CMakeFiles/it_1.dir/source/list_graph.cpp.o -c /home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/list_graph.cpp",
+  "file": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/list_graph.cpp"
+},
+{
+  "directory": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build",
+  "command": "/usr/bin/c++   -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1 -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/include  -g -O0 -Wall   -std=gnu++11 -o CMakeFiles/it_1.dir/source/matrix_graph.cpp.o -c /home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/matrix_graph.cpp",
+  "file": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/matrix_graph.cpp"
+},
+{
+  "directory": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build",
+  "command": "/usr/bin/c++   -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/build -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1 -I/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/include  -g -O0 -Wall   -std=gnu++11 -o CMakeFiles/it_1.dir/source/set_graph.cpp.o -c /home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/set_graph.cpp",
+  "file": "/home/san_sanchez/TechnoPark/technopark_algorithms-data_structures/module_3/it_1/source/set_graph.cpp"
+}
+]
